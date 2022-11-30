@@ -1,0 +1,166 @@
+log-parse::PlanningComponent::Proc_start
+log-parse::PlanningComponent::TimeStamp: 11111111
+log-parse::relative_map lane, id-coord: 1 , 0.0 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 0.5 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 1.0 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 1.5 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 2.0 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 2.5 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 3.0 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 3.5 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 4.0 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 4.5 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 5.0 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 0.0 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 0.5 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 1.0 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 1.5 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 2.0 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 2.5 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 3.0 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 3.5 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 4.0 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 4.5 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 5.0 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 0.0 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 0.5 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 1.0 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 1.5 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 2.0 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 2.5 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 3.0 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 3.5 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 4.0 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 4.5 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 5.0 , -3.75 , 0.0 , 0.0
+log-parse::Trajectory, coord: 0.0 , 0.0 , 0.0 , 0.0 , 0.0 , 0.0 , 1.0 , 0.0
+log-parse::Trajectory, coord: 0.1 , 0.1 , 0.0 , 0.0 , 0.0 , 0.1 , 1.0 , 0.0
+log-parse::Trajectory, coord: 0.2 , 0.2 , 0.0 , 0.0 , 0.0 , 0.2 , 1.0 , 0.0
+log-parse::Trajectory, coord: 0.3 , 0.3 , 0.0 , 0.0 , 0.0 , 0.3 , 1.0 , 0.0
+log-parse::Trajectory, coord: 0.4 , 0.4 , 0.0 , 0.0 , 0.0 , 0.4 , 1.0 , 0.0
+log-parse::Trajectory, coord: 0.4 , 0.4 , 0.0 , 0.0 , 0.0 , 0.4 , 1.0 , 0.0
+log-parse::Trajectory, coord: 0.5 , 0.5 , 0.0 , 0.0 , 0.0 , 0.5 , 1.0 , 0.0
+log-parse::Trajectory, coord: 1.0 , 1.0 , 0.0 , 0.0 , 0.0 , 1.0 , 1.0 , 0.0
+log-parse::Trajectory, coord: 2.0 , 2.0 , 0.0 , 0.0 , 0.0 , 2.0 , 1.0 , 0.0
+log-parse::Trajectory, coord: 3.0 , 3.0 , 0.0 , 0.0 , 0.0 , 3.0 , 1.0 , 0.0
+log-parse::Trajectory, coord: 4.0 , 4.0 , 0.0 , 0.0 , 0.0 , 4.0 , 1.0 , 0.0
+log-parse::Trajectory, coord: 5.0 , 5.0 , 0.0 , 0.0 , 0.0 , 5.0 , 1.0 , 0.0
+log-parse::Trajectory, coord: 6.0 , 6.0 , 0.0 , 0.0 , 0.0 , 6.0 , 1.0 , 0.0
+log-parse::Obstacle: 6.0 , -3.0 , 0.0 , 5.0 , 3.0
+log-parse::Ego Lane ID: 1
+log-parse::Ref Lane ID: 2
+log-parse::Stage: LaneFollow
+log-parse::localize, x, y, theta: 0.0 , 0.0 , 0.0
+log-parse::PlanningComponent::Proc_end
+log-parse::PlanningComponent::Proc_start
+log-parse::PlanningComponent::TimeStamp: 2222222
+log-parse::relative_map lane, id-coord: 1 , 0.0 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 0.5 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 1.0 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 1.5 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 2.0 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 2.5 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 3.0 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 3.5 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 4.0 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 4.5 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 5.0 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 0.0 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 0.5 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 1.0 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 1.5 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 2.0 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 2.5 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 3.0 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 3.5 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 4.0 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 4.5 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 5.0 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 0.0 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 0.5 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 1.0 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 1.5 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 2.0 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 2.5 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 3.0 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 3.5 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 4.0 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 4.5 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 5.0 , -3.75 , 0.0 , 0.0
+log-parse::Trajectory, coord: 0.0 , 0.0 , 0.0 , 0.0 , 0.0 , 0.0 , 1.0 , 0.0
+log-parse::Trajectory, coord: 0.1 , 0.1 , 0.0 , 0.0 , 0.0 , 0.1 , 1.0 , 0.0
+log-parse::Trajectory, coord: 0.2 , 0.2 , 0.0 , 0.0 , 0.0 , 0.2 , 1.0 , 0.0
+log-parse::Trajectory, coord: 0.3 , 0.3 , 0.0 , 0.0 , 0.0 , 0.3 , 1.0 , 0.0
+log-parse::Trajectory, coord: 0.4 , 0.4 , 0.0 , 0.0 , 0.0 , 0.4 , 1.0 , 0.0
+log-parse::Trajectory, coord: 0.4 , 0.4 , 0.0 , 0.0 , 0.0 , 0.4 , 1.0 , 0.0
+log-parse::Trajectory, coord: 0.5 , 0.5 , 0.0 , 0.0 , 0.0 , 0.5 , 1.0 , 0.0
+log-parse::Trajectory, coord: 1.0 , 1.0 , 0.0 , 0.0 , 0.0 , 1.0 , 1.0 , 0.0
+log-parse::Trajectory, coord: 2.0 , 2.0 , 0.0 , 0.0 , 0.0 , 2.0 , 1.0 , 0.0
+log-parse::Trajectory, coord: 3.0 , 3.0 , 0.0 , 0.0 , 0.0 , 3.0 , 1.0 , 0.0
+log-parse::Trajectory, coord: 4.0 , 4.0 , 0.0 , 0.0 , 0.0 , 4.0 , 1.0 , 0.0
+log-parse::Trajectory, coord: 5.0 , 5.0 , 0.0 , 0.0 , 0.0 , 5.0 , 1.0 , 0.0
+log-parse::Trajectory, coord: 6.0 , 6.0 , 0.0 , 0.0 , 0.0 , 6.0 , 1.0 , 0.0
+log-parse::Obstacle: 2.0 , 3.0 , 0.0 , 2.0 , 1.0
+log-parse::Obstacle: 6.0 , -3.0 , 0.0 , 5.0 , 3.0
+log-parse::Ego Lane ID: 1
+log-parse::Ref Lane ID: 2
+log-parse::Stage: LaneFollow
+log-parse::Stage: LaneBrake
+log-parse::localize, x, y, theta: 0.0 , 0.0 , 0.0
+log-parse::PlanningComponent::Proc_end
+log-parse::PlanningComponent::Proc_start
+log-parse::PlanningComponent::TimeStamp: 333333
+log-parse::relative_map lane, id-coord: 1 , 0.0 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 0.5 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 1.0 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 1.5 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 2.0 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 2.5 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 3.0 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 3.5 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 4.0 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 4.5 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 1 , 5.0 , 0.0 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 0.0 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 0.5 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 1.0 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 1.5 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 2.0 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 2.5 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 3.0 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 3.5 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 4.0 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 4.5 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 2 , 5.0 , 3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 0.0 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 0.5 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 1.0 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 1.5 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 2.0 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 2.5 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 3.0 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 3.5 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 4.0 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 4.5 , -3.75 , 0.0 , 0.0
+log-parse::relative_map lane, id-coord: 3 , 5.0 , -3.75 , 0.0 , 0.0
+log-parse::Trajectory, coord: 0.0 , 0.0 , 0.0 , 0.0 , 0.0 , 0.0 , 1.0 , 0.0
+log-parse::Trajectory, coord: 0.1 , 0.1 , 0.0 , 0.0 , 0.0 , 0.1 , 1.0 , 0.0
+log-parse::Trajectory, coord: 0.2 , 0.2 , 0.0 , 0.0 , 0.0 , 0.2 , 1.0 , 0.0
+log-parse::Trajectory, coord: 0.3 , 0.3 , 0.0 , 0.0 , 0.0 , 0.3 , 1.0 , 0.0
+log-parse::Trajectory, coord: 0.4 , 0.4 , 0.0 , 0.0 , 0.0 , 0.4 , 1.0 , 0.0
+log-parse::Trajectory, coord: 0.4 , 0.4 , 0.0 , 0.0 , 0.0 , 0.4 , 1.0 , 0.0
+log-parse::Trajectory, coord: 0.5 , 0.5 , 0.0 , 0.0 , 0.0 , 0.5 , 1.0 , 0.0
+log-parse::Trajectory, coord: 1.0 , 1.0 , 0.0 , 0.0 , 0.0 , 1.0 , 1.0 , 0.0
+log-parse::Trajectory, coord: 2.0 , 2.0 , 0.0 , 0.0 , 0.0 , 2.0 , 1.0 , 0.0
+log-parse::Trajectory, coord: 3.0 , 3.0 , 0.0 , 0.0 , 0.0 , 3.0 , 1.0 , 0.0
+log-parse::Trajectory, coord: 4.0 , 4.0 , 0.0 , 0.0 , 0.0 , 4.0 , 1.0 , 0.0
+log-parse::Trajectory, coord: 5.0 , 5.0 , 0.0 , 0.0 , 0.0 , 5.0 , 1.0 , 0.0
+log-parse::Trajectory, coord: 6.0 , 6.0 , 0.0 , 0.0 , 0.0 , 6.0 , 1.0 , 0.0
+log-parse::Obstacle: 2.0 , 3.0 , 0.0 , 2.0 , 1.0
+log-parse::Ego Lane ID: 1
+log-parse::Ref Lane ID: 2
+log-parse::Stage: LaneFollow
+log-parse::Stage: LaneBrake
+log-parse::Stage: LaneChange Process
+log-parse::localize, x, y, theta: 0.0 , 0.0 , 0.0
+log-parse::PlanningComponent::Proc_end
