@@ -4,13 +4,22 @@ python version is $3.9.13$. Make sure your Python version is 3.x.
 ```
 https://www.python.org/downloads/
 ```
+
+conda create --name log_parse python=3.9.13
+
 ## 2. pip3
 installation documentation:
 ```
 https://pip.pypa.io/en/stable/installation/
 ```
+
+default installed pip is pip3 if you create virtual env like before.
+
+
 ## 3. matplotlib
 Linux : ``` sudo pip3 install matplotlib ```
+pip install matplotlib
+
 
 Windows : ``` py -m pip install matplotlib ```
 
